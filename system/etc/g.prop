@@ -1,0 +1,8 @@
+CustomGAppPackage=BiTGApps
+BiTGAppType=Treble
+arch=arm64
+sdk=27
+platform=8.1
+BuildDate=26-May-2018
+BuildID=0.3
+Developer=TheHitMan @ XDA-Developers
