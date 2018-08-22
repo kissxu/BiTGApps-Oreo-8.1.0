@@ -1,5 +1,6 @@
-# Treble
+# Compatibilty
   - Support Both Treble and Non-Treble ROMs.
-
-* treble.enabled = true
-* treble.enabled = false
+  
+# TNT
+  * treble.enabled = true
+  * non-treble.enabled = true
