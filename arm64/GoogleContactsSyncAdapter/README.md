@@ -1,0 +1,2 @@
+* Addition
+  - Add GoogleContactsSyncAdapter.apk

@@ -1,0 +1,9 @@
+CustomGAppsPackage=BiTGApps
+BiTGAppsType=Treble and Non-Treble
+arch=arm64
+sdk=27
+platform=8.1
+BuildDate=22-August-2018 #Change according to next release.
+BuildID=X.X #Replace "X.X" with version code.
+Developer=TheHitMan @ xda-developers
+Contributor=User_Name #Add your "User_name" here if you contribute to this project.

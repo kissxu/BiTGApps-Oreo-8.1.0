@@ -1,0 +1,2 @@
+* Addition
+  - Add GoogleExtShared.apk
