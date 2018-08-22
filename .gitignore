@@ -9,3 +9,22 @@
 #
 # Normal rules
 #
+
+#
+# git files that we don't want to ignore even it they are dot-files
+#
+!.gitignore
+!.mailmap
+
+#
+# Apk files
+#
+arm64/FaceLock/*.apk
+arm64/GmsCoreSetupPrebuilt/*.apk
+arm64/GoogleBackupTransport/*.apk
+arm64/GoogleContactsSyncAdapter/*.apk
+arm64/GoogleExtServices/*.apk
+arm64/GoogleExtShared/*.apk
+arm64/GoogleServicesFramework/*.apk
+arm64/Phonesky/*.apk
+arm64/PrebuiltGmsCore/*.apk
